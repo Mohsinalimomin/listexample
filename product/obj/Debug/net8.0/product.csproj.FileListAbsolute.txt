@@ -1,0 +1,14 @@
+D:\may training\product\product\bin\Debug\net8.0\product.exe
+D:\may training\product\product\bin\Debug\net8.0\product.deps.json
+D:\may training\product\product\bin\Debug\net8.0\product.runtimeconfig.json
+D:\may training\product\product\bin\Debug\net8.0\product.dll
+D:\may training\product\product\bin\Debug\net8.0\product.pdb
+D:\may training\product\product\obj\Debug\net8.0\product.GeneratedMSBuildEditorConfig.editorconfig
+D:\may training\product\product\obj\Debug\net8.0\product.AssemblyInfoInputs.cache
+D:\may training\product\product\obj\Debug\net8.0\product.AssemblyInfo.cs
+D:\may training\product\product\obj\Debug\net8.0\product.csproj.CoreCompileInputs.cache
+D:\may training\product\product\obj\Debug\net8.0\product.dll
+D:\may training\product\product\obj\Debug\net8.0\refint\product.dll
+D:\may training\product\product\obj\Debug\net8.0\product.pdb
+D:\may training\product\product\obj\Debug\net8.0\product.genruntimeconfig.cache
+D:\may training\product\product\obj\Debug\net8.0\ref\product.dll
